@@ -6,7 +6,7 @@ body {
 }
 
 #header {
-    background-color: #004080;
+    background-color: #B2AC88;
     color: white;
     text-align: center;
     padding: 20px;
@@ -36,7 +36,7 @@ img {
 }
 
 #footer {
-    background-color: #004080;
+    background-color: #B2AC88;
     color: white;
     text-align: center;
     padding: 10px;
@@ -48,7 +48,7 @@ ul {
 }
 
 a {
-    color: #004080;
+    color: #B2AC88;
     text-decoration: none;
 }
 
